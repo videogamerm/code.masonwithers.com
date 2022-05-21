@@ -1,5 +1,5 @@
 /* Add a black background color to the top navigation */
-
+@import url(./fonts/stylesheet.css)
 body {background-color: #0000ff;font-family:'major_mono_display', monospace;}
 .topnav {
     background-color: rgb(22, 21, 21);
